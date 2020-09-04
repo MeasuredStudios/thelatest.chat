@@ -56,7 +56,7 @@
     "husky": "4.2.5",
     "jest": "26.4.2",
     "jest-emotion": "10.0.32",
-    "lint-staged": "10.2.13",
+    "lint-staged": "10.3.0",
     "prettier": "2.1.1",
     "react-test-renderer": "16.13.1",
     "ts-jest": "26.3.0",
